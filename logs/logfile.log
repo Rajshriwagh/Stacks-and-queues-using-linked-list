@@ -19,3 +19,11 @@ INFO  | 2022-10-02 21:24:55 | [main] stacksandqueues.Stack (Stack.java:35) - 56
 INFO  | 2022-10-02 21:24:55 | [main] stacksandqueues.Stack (Stack.java:35) - 30
 INFO  | 2022-10-02 21:24:55 | [main] stacksandqueues.Stack (Stack.java:38) - 70
 INFO  | 2022-10-02 21:24:55 | [main] stacksandqueues.App (App.java:24) - Queue implementation
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.App (App.java:10) - Implementation of Stack & Queue using Linked List!
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.Stack (Stack.java:35) - 56
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.Stack (Stack.java:35) - 30
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.Stack (Stack.java:38) - 70
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.App (App.java:24) - Queue implementation
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.Queue (Queue.java:37) - 56
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.Queue (Queue.java:37) - 30
+INFO  | 2022-10-02 21:39:06 | [main] stacksandqueues.Queue (Queue.java:37) - 70
